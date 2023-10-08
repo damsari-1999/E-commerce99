@@ -1,0 +1,13 @@
+.mainContainer {
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.itemSelectCon{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    box-sizing: border-box;
+
+}
+.flowersdiv {
+    padding-top: 4%;
+}

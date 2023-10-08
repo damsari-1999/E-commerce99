@@ -1,0 +1,9 @@
+.btnContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    box-sizing: border-box;
+    text-align: center;
+    column-gap: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+}

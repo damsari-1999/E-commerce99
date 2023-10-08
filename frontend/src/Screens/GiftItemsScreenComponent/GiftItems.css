@@ -1,0 +1,33 @@
+
+.flowerContainer {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    box-sizing: border-box;
+}
+.flowersdiv {
+    padding-top: 4%;
+}
+.cusDiv {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    box-sizing: border-box;
+    text-align: center;
+}
+.intorflower {
+    width: 100%;
+    height: 100%;
+}
+.intros{ 
+    height: 30%;
+    background-color: aqua;
+}
+.btnContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    box-sizing: border-box;
+    text-align: center;
+    column-gap: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
